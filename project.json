@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "ignore": [
+    "fonts"
+  ],
+  "once": [
+    "fonts"
+  ],
+  "name": "portfolio",
+  "type": "vanilla",
+  "id": "portfolio-1fca99a2-9424-4a48-a6ff-c2eddb70a974",
+  "backup": [
+    {
+      "path": "D:\\webCLI\\backup\\portfolio-1fca99a2-9424-4a48-a6ff-c2eddb70a974\\v1",
+      "createdAt": 1671799274357,
+      "date": "12/23/2022, 6:41:14 PM",
+      "version": 1
+    }
+  ]
+}
